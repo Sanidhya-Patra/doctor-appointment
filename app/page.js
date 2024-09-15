@@ -1,4 +1,4 @@
-import Image from "next/image";
+import React from "react-js";
 
 export default function Home() {
   return (
